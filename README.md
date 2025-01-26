@@ -6,6 +6,9 @@ Each tutorial is accompanied by code on GitHub and a video explanation on YouTub
 
 ## Tutorials and Resources
 
+### ▶️ **All-in-One Video**
+- [YouTube: All SOLID Principles in One Video](https://www.youtube.com/watch?v=yEnPW2mGHRk)
+
 ### 1. Single Responsibility Principle (SRP)
 - [GitHub Code](https://github.com/Kodla-devs/solid-tutorial/tree/main/single_responsibility)
 - [YouTube Tutorial](https://www.youtube.com/watch?v=be1VEeKo-YQ&list=PLh9tR6B_Q32qL8apQJVbUl5zLiix4kaK_&index=3)
